@@ -5,6 +5,8 @@ plugins:
       url: "https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsChat/target/EssentialsXChat-2.17.0.3.jar" 
     - name: "EssentialsXProtect"
       url: "https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsProtect/target/EssentialsXProtect-2.17.0.3.jar" 
+    - name: "EssentialsXSpawn"
+      url: "https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/EssentialsSpawn/target/EssentialsXSpawn-2.17.0.3.jar"
     - name: "AntiGuest"
       url: "https://plik.root.gg/file/0YkuhCUKQybYJo0G/Yjlspc3zXNCfA4pq/AntiGuest.jar"
     - name: "LogBlock"
