@@ -17,3 +17,5 @@ plugins:
       url: "https://plik.root.gg/file/0YkuhCUKQybYJo0G/nDWlSbsWQDemD0gs/Vault.jar" 
     - name: "GroupManager"
       url: "https://github.com/GroupManager/GroupManager/releases/download/v0.1.0/GroupManager.jar" 
+    - name: "MessageAnnouncer"
+      url: "https://plik.root.gg/file/54pjpJ1TGVNraozm/KyssJevVEDfk1Kxy/MessageAnnouncer-1.10.0.jar"
